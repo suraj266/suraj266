@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <img
-    style="text-align: center"
+    align="right"
     width="400"
     src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"
     alt="coding" />

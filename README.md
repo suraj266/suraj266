@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00838F,100:26A69A&height=220&section=header&text=Suraj%20Ojha&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20(MERN)%20Developer%20%7C%20Building%20scalable%20%26%20AI-powered%20web%20apps&descAlignY=60&descSize=18" alt="Suraj Ojha — Full Stack Developer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00838F,100:26A69A&height=220&section=header&text=Suraj%20Ojha&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20(MERN)%20Developer%20%7C%20Building%20scalable,%20AI-powered%20web%20apps&descAlignY=60&descSize=18" alt="Suraj Ojha — Full Stack Developer" width="100%" />
 
 <!-- Animated roles -->
 <a href="https://surajojha.com">
@@ -29,31 +29,31 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm **Suraj Ojha**, a **Full-Stack (MERN) Developer** based in **Ahmedabad, India**, with **3+ years** of experience building scalable, high-performance web applications and real-time systems.
 
-- 🔭 Currently a **Full-Stack Developer at Uminber Design**
-- ⚡ I specialize in **React, Next.js, Node.js, NestJS, GraphQL, MongoDB** and **real-time apps with WebSockets**
-- 🧠 Exploring **AI engineering** — LangChain, RAG, and vector databases (Qdrant, ChromaDB)
-- 🌐 Live portfolio → **[surajojha.com](https://surajojha.com)**
-- 💬 Ask me about **MERN, system design, REST / GraphQL APIs, and AI integration**
-- 📫 Reach me at **surajojha2804@gmail.com**
+- Currently a **Full-Stack Developer at Uminber Design**
+- I specialize in **React, Next.js, Node.js, NestJS, GraphQL, MongoDB** and **real-time apps with WebSockets**
+- Exploring **AI engineering** — LangChain, RAG, and vector databases (Qdrant, ChromaDB)
+- Live portfolio: **[surajojha.com](https://surajojha.com)**
+- Ask me about **MERN, system design, REST / GraphQL APIs, and AI integration**
+- Reach me at **surajojha2804@gmail.com**
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | What it does | Tech |
 | :------ | :----------- | :--- |
-| **[Corp8 AI →](https://surajojha.com/projects)** | Enterprise AI platform for document intelligence, real-time chat & organizational knowledge management | `Next.js` · `LangChain` · `OpenAI` · `Qdrant` · `PostgreSQL` · `Docker` |
-| **[Praedico Finance →](https://surajojha.com/projects)** | Stock-trading simulation platform with portfolio & funds management | `React` · `Node.js` · `Express` · `MySQL` |
+| **[Corp8 AI](https://surajojha.com/projects)** | Enterprise AI platform for document intelligence, real-time chat and organizational knowledge management | `Next.js` · `LangChain` · `OpenAI` · `Qdrant` · `PostgreSQL` · `Docker` |
+| **[Praedico Finance](https://surajojha.com/projects)** | Stock-trading simulation platform with portfolio and funds management | `React` · `Node.js` · `Express` · `MySQL` |
 
-> 📂 See full case studies with screenshots on my portfolio → **[surajojha.com/projects](https://surajojha.com/projects)**
+See full case studies with screenshots on my portfolio: **[surajojha.com/projects](https://surajojha.com/projects)**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -76,7 +76,7 @@ I'm **Suraj Ojha**, a **Full-Stack (MERN) Developer** based in **Ahmedabad, Indi
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 **Databases**
@@ -102,7 +102,7 @@ I'm **Suraj Ojha**, a **Full-Stack (MERN) Developer** based in **Ahmedabad, Indi
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -119,9 +119,9 @@ I'm **Suraj Ojha**, a **Full-Stack (MERN) Developer** based in **Ahmedabad, Indi
 
 <div align="center">
 
-### 💡 _"Clean code, real impact — I build products people actually use."_
+### _"Clean code, real impact — I build products people actually use."_
 
-<a href="https://surajojha.com"><img src="https://img.shields.io/badge/Let's%20build%20something%20together%20→-26A69A?style=for-the-badge" alt="Let's connect" /></a>
+<a href="https://surajojha.com"><img src="https://img.shields.io/badge/Let's%20build%20something%20together-26A69A?style=for-the-badge" alt="Let's connect" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26A69A,100:00838F&height=120&section=footer" alt="" width="100%" />
 

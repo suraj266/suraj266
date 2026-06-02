@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00838F,100:26A69A&height=220&section=header&text=Suraj%20Ojha&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20(MERN)%20Developer%20%7C%20Building%20scalable,%20AI-powered%20web%20apps&descAlignY=60&descSize=18" alt="Suraj Ojha — Full Stack Developer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00838F,100:26A69A&height=260&section=header&text=Suraj%20Ojha&fontSize=56&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20(MERN)%20Developer%20%7C%20Building%20scalable,%20AI-powered%20web%20apps&descAlignY=57&descSize=16" alt="Suraj Ojha — Full Stack Developer" width="100%" />
 
 <!-- Animated roles -->
 <a href="https://surajojha.com">
@@ -106,14 +106,22 @@ See full case studies with screenshots on my portfolio: **[surajojha.com/project
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=suraj266&show_icons=true&count_private=true&hide_border=true&title_color=26A69A&icon_color=26A69A&text_color=c9d1d9&bg_color=0d1117" alt="Suraj Ojha's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj266&layout=compact&hide_border=true&title_color=26A69A&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=suraj266&hide_border=true&background=0d1117&ring=26A69A&fire=26A69A&currStreakLabel=26A69A&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dayLabels=c9d1d9&totalLabel=26A69A&stroke=26A69A" alt="GitHub streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=suraj266&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="GitHub trophies" />
+<img src="https://streak-stats.demolab.com?user=suraj266&hide_border=true&background=0d1117&ring=26A69A&fire=26A69A&currStreakLabel=26A69A&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dayLabels=c9d1d9&totalLabel=26A69A&stroke=26A69A" alt="GitHub contribution streak" />
 
 </div>
+
+<!--
+  NOTE: The popular github-readme-stats and github-profile-trophy PUBLIC instances
+  are frequently paused/rate-limited by Vercel (they were returning 503/402 when this
+  was written), which is why their cards show as broken images.
+  To add a reliable stats card + top-languages card back, self-host github-readme-stats:
+    1. Fork https://github.com/anuraghazra/github-readme-stats
+    2. Deploy your fork to your own Vercel account (free, ~3 min)
+    3. Use YOUR domain, e.g.:
+       https://YOUR-INSTANCE.vercel.app/api?username=suraj266&show_icons=true&hide_border=true&title_color=26A69A&icon_color=26A69A&text_color=c9d1d9&bg_color=0d1117
+       https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=suraj266&layout=compact&hide_border=true&title_color=26A69A&text_color=c9d1d9&bg_color=0d1117
+-->
+
 
 ---
 
